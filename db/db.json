@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "lol",
+      "email": "lol@lol.com",
+      "password": "lollol",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "a",
+      "email": "a@a.com",
+      "password": "aaaaaa",
+      "id": 3
+    },
+    {
+      "name": "toni",
+      "email": "toni@moov.mg",
+      "password": "toni123",
+      "id": 4
+    },
+    {
+      "name": "kaliana",
+      "email": "kal@gmail.com",
+      "password": "kaliana",
+      "id": 5
+    },
+    {
+      "name": "123",
+      "email": "123@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "bb",
+      "email": "bb@lol.com",
+      "password": "bbbb",
+      "id": 7
+    }
+  ]
+}
